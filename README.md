@@ -25,7 +25,8 @@ I enjoy building small, self-contained utilities – the kind that make systems 
 - Distributed computing and BOINC projects  
 
 ### 🗂️ Selected work
-- [Password Generator GUI](https://github.com/BrianDurham/gen-password)) – minimal Tkinter tool using Python’s `secrets` module  
+- [Password Generator GUI](https://github.com/BrianDurham/gen-password)) – minimal Tkinter tool using Python’s `secrets` module
+- [What Is My Plant Zone](https://whatismyplantzone.com) - Quick USDA plant zone lookup by ZIP code with frost dates and growing season info.
 - [Misc utilities](#) – various scripts for system checks, stats gathering, and automation (more coming soon)
 
 ### ☕ Support my projects
